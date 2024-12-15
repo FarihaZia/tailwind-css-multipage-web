@@ -8,7 +8,7 @@ const Contact = () => {
     {/* <!-- Heading --> */}
     <h1 className="text-4xl font-bold text-gray-800 text-center">Contact Us</h1>
     <p className="text-lg text-gray-600 text-center mt-4">
-      Have questions? We'd love to hear from you. Fill out the form or use the details below to get in touch.
+      Have questions? We would love to hear from you. Fill out the form or use the details below to get in touch.
     </p>
 
     {/* <!-- Contact Form --> */}
